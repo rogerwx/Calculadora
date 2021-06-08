@@ -1,0 +1,12 @@
+
+.panell {
+    -fx-background-color: BLACK;
+}
+
+.boto {
+    -fx-border-radius: 20;
+    -fx-background-radius: 20;
+    -fx-background-color: WHITE;
+    -fx-font-size: 15px;
+}
+
